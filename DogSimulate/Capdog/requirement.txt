@@ -1,0 +1,10 @@
+mujoco~=2.3.1
+mujoco-python-viewer~=0.1.2
+numpy
+scipy
+torch
+matplotlib
+gym
+pyyaml
+wandb
+inputs

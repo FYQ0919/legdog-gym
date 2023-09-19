@@ -1,0 +1,6 @@
+Wed Jul 12 15:51:30 2023
+WARNING: mju_openResource: unknown file './model/three_stairs_qz.xml'
+
+Wed Jul 12 16:39:40 2023
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 1. The simulation is unstable. Time = 0.2000.
+
